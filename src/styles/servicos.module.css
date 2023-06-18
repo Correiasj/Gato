@@ -1,0 +1,25 @@
+.servicos{
+margin:0 auto;
+text-align:center;
+}
+.servicos img{
+width:80%;
+height:250px;
+box-shadow:2px 2px 2px 3px gray;
+border-radius:100%;
+}
+.botao{
+background-color: red;
+
+text-align:center;
+margin:0 auto;
+}
+.titulo{
+text-align:center;
+color:red;
+margin:0 auto;
+}
+.botao button{
+width:80%;
+color:red;
+}
